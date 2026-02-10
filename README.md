@@ -1,1 +1,1 @@
-# white-lotus-protocol
+# syndicate-core
